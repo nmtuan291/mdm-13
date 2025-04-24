@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\MDM_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\services\\cassandraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\services\\cassandraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\services\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\services\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|C:\\Users\\Admin\\source\\repos\\MDM_13\\mdm_13\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|C:\\Users\\Admin\\source\\repos\\MDM_13\\mdm_13\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\core\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\core\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|C:\\Users\\Admin\\source\\repos\\MDM_13\\mdm_13\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|c:\\users\\admin\\source\\repos\\mdm_13\\mdm_13\\forms\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBE095C-4D6F-4634-A0E1-0EFC6E842D8A}|MDM_13\\MDM_13.csproj|solutionrelative:mdm_13\\forms\\signupform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 245,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\SignUpForm.Designer.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\SignUpForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\SignUpForm.Designer.cs",
+              "RelativeToolTip": "MDM_13\\Forms\\SignUpForm.Designer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAEwKoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:14:53.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\SignUpForm.cs [Design]",
+              "RelativeToolTip": "MDM_13\\Forms\\SignUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:12:51.28Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\SignUpForm.cs",
+              "RelativeToolTip": "MDM_13\\Forms\\SignUpForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:28:19.958Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "MDM_13\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:55:55.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CassandraService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Services\\CassandraService.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Services\\CassandraService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Services\\CassandraService.cs",
+              "RelativeToolTip": "MDM_13\\Services\\CassandraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:00:01.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Models\\User.cs",
+              "RelativeToolTip": "MDM_13\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:29:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Services\\SQLService.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Services\\SQLService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Services\\SQLService.cs",
+              "RelativeToolTip": "MDM_13\\Services\\SQLService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:00:44.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\MainForm.cs",
+              "RelativeToolTip": "MDM_13\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:28:56.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "MDM_13\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:27:11.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "MDM_13\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:53:36.723Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "MDM_13\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAABBwIsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:55:20.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Core\\UserSession.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Core\\UserSession.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Core\\UserSession.cs",
+              "RelativeToolTip": "MDM_13\\Core\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:06:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Services\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "MDM_13\\Services\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\MDM_13\\MDM_13\\Services\\MongoDBService.cs",
+              "RelativeToolTip": "MDM_13\\Services\\MongoDBService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:14:17.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 155,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
