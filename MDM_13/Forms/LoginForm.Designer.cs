@@ -75,6 +75,7 @@
             passwordTextbox.PlaceholderText = "Mật khẩu";
             passwordTextbox.Size = new Size(320, 27);
             passwordTextbox.TabIndex = 2;
+            passwordTextbox.UseSystemPasswordChar = true;
             // 
             // linkLabel1
             // 

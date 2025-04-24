@@ -132,6 +132,7 @@
             passwordTextbox.PlaceholderText = "Mật khẩu";
             passwordTextbox.Size = new Size(320, 27);
             passwordTextbox.TabIndex = 12;
+            passwordTextbox.UseSystemPasswordChar = true;
             // 
             // confirmpwdTextbox
             // 
@@ -142,6 +143,7 @@
             confirmpwdTextbox.PlaceholderText = "Nhập lại mật khẩu";
             confirmpwdTextbox.Size = new Size(320, 27);
             confirmpwdTextbox.TabIndex = 13;
+            confirmpwdTextbox.UseSystemPasswordChar = true;
             // 
             // SignUpButton
             // 
